@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ball valve
+* source:	https://sketchfab.com/3d-models/ball-valve-4e3ad853ade140eba4f6f88830718ab3
+* author:	Kostroman (https://sketchfab.com/Kostroman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ball valve" (https://sketchfab.com/3d-models/ball-valve-4e3ad853ade140eba4f6f88830718ab3) by Kostroman (https://sketchfab.com/Kostroman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
